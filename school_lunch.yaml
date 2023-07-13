@@ -1,0 +1,28 @@
+path: ../datasets/data/
+train: train/
+val: val/
+
+# class names
+names: 
+  0: 'Milk'
+  1: 'Drinkable yogurt'
+  2: 'Rice'
+  3: 'Mixed rice'
+  4: 'Bread'
+  5: 'White bread'
+  6: 'Udon'
+  7: 'Fish'
+  8: 'Meat'
+  9: 'Salad'
+  10: 'Cherry tomatoes'
+  11: 'Soups'
+  12: 'Curry'
+  13: 'Spicy chili-flavored tofu'
+  14: 'Bibimbap'
+  15: 'Fried noodles'
+  16: 'Spaghetti'
+  17: 'Citrus'
+  18: 'Apple'
+  19: 'Cup desserts'
+  20: 'Other foods'
+  
